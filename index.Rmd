@@ -1,0 +1,12 @@
+---
+title: "getting started"
+author: "Nick Gotelli"
+date: "1/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Setting up initial webpage...
